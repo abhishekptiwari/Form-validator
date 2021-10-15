@@ -4,6 +4,8 @@ const email = document.getElementById('email');
 const password = document.getElementById('password');
 const password_confirm = document.getElementById('password_confirm');
 
+
+
 // Error outline and Message
 function showError(input, message) {
     // Accesssing the username div;
